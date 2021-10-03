@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sriramsreedhar
-- 👀 I’m interested in Python and Kubernetes
-- 💞️ I’m looking to collaborate on Python and Kubernetes
+- 👀 I’m interested in Python
+- - 💞️ I’m looking to collaborate on Python
 
 
 <!---
